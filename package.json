@@ -2,6 +2,7 @@
   "name": "cadence-course-platform",
   "private": true,
   "description": "An awesome my horse platform",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "cherry-pick": "ai-hero-cli cherry-pick --branch=live-run-through --upstream=https://github.com/ai-hero-dev/cohort-004-project.git",
